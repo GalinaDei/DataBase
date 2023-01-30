@@ -74,8 +74,6 @@ def edit_record():
                 if x in row:
                     my_table.add_row(row)
                     count += 1
-                else:
-                    print("Record not found")
     print(my_table)
     if count >= 2:
         y = input("Enter ID to continue edition or Enter to exit: ")

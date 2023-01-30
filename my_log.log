@@ -10,3 +10,16 @@
 29-01-2023 20:25:13 - search - INFO - find_record - Search has done
 29-01-2023 20:26:47 - records_work - INFO - csv_create - New record
 29-01-2023 20:27:09 - search - INFO - find_record - Search has done
+29-01-2023 20:32:24 - records_work - INFO - csv_create - New record
+29-01-2023 20:32:27 - search - INFO - show_all - Search has done
+29-01-2023 22:45:59 - records_work - INFO - csv_create - New record
+29-01-2023 22:48:08 - records_work - INFO - record_to_add - New record
+29-01-2023 22:48:15 - search - INFO - show_all - Search has done
+29-01-2023 22:50:05 - records_work - INFO - edit_record - Records update
+29-01-2023 22:50:08 - search - INFO - show_all - Search has done
+30-01-2023 11:18:45 - records_work - INFO - csv_create - New record
+30-01-2023 11:19:25 - records_work - INFO - record_to_add - New record
+30-01-2023 11:19:31 - search - INFO - show_all - Search has done
+30-01-2023 11:20:02 - search - INFO - find_record - Search has done
+30-01-2023 11:21:30 - records_work - INFO - edit_record - Records update
+30-01-2023 11:21:34 - search - INFO - show_all - Search has done
